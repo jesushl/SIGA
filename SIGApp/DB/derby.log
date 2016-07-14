@@ -1,0 +1,16 @@
+Tue Nov 26 09:25:30 CST 2013 : Servidor de red Apache Derby: Se ha iniciado 10.10.1.1 - (1458268) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Tue Nov 26 09:25:31 CST 2013:
+ Iniciando instancia a816c00e-0142-9503-e883-0000742d1b4d de Derby, versión The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): 
+en el directorio de base de datos C:\Users\auditor\JESUS\SIGApp\DB\SIGALocalPersistence con el cargador de clases sun.misc.Launcher$AppClassLoader@8ed465
+Cargado desde file:/C:/Users/auditor/Documents/NetBeansProjects/db-derby-10.10.1.1-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_21-b11
+user.dir=C:\Users\auditor\Documents\NetBeansProjects\db-derby-10.10.1.1-lib
+os.name=Windows Vista
+os.arch=x86
+os.version=6.0
+derby.system.home=C:\Users\auditor\JESUS\SIGApp\DB
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 26 09:28:01 CST 2013: cerrando motor de Derby
